@@ -4,14 +4,10 @@ channels:
   - bioconda
 dependencies:
   - bcftools
-  - bwa-mem2
   - chopper
-  - fastp
-  - fastqc
   - iqtree
   - mafft
   - minimap2
-  - multiqc
   - nanoplot
   - samtools
   - seqkit
