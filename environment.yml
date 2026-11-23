@@ -1,7 +1,7 @@
 name: nivseq
 channels:
-  - bioconda
   - conda-forge
+  - bioconda
 dependencies:
   - bcftools
   - bwa-mem2
