@@ -1,0 +1,8 @@
+data/*
+!data/accessions.txt
+results/filtered/
+results/bam/
+results/vcf/*.raw.vcf
+results/ours_vs_published*
+*.ckp.gz
+results/filt_q*.fastq

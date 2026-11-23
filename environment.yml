@@ -1,0 +1,19 @@
+name: nivseq
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bcftools
+  - bwa-mem2
+  - chopper
+  - fastp
+  - fastqc
+  - iqtree
+  - mafft
+  - minimap2
+  - multiqc
+  - nanoplot
+  - samtools
+  - seqkit
+  - sra-tools
+
