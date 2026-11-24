@@ -7,3 +7,4 @@ results/ours_vs_published*
 *.ckp.gz
 results/filt_q*.fastq
 *:Zone.Identifier
+results/qc_raw/*.log
